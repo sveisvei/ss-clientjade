@@ -1,0 +1,18 @@
+{
+  "name": "ss-browserJade",
+  "author": "Sveinung",
+  "description": "Jade template engine wrapper providing server-side compiled templates for SocketStream apps",
+  "version": "0.1.0",
+  "main": "./lib/engine.js",
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/sveisvei/ss-b"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "dependencies": {
+    "jade": "*"
+  },
+  "devDependencies": {}
+}
