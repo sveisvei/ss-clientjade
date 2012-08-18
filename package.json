@@ -2,7 +2,7 @@
   "name": "ss-clientjade",
   "author": "Sveinung Røsaker <sveinung.rosaker@gmail.com>",
   "description": "Jade template engine wrapper providing server-side compiled templates for SocketStream apps",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./lib/engine.js",
   "repository": {
     "type" : "git",
