@@ -12,7 +12,8 @@
     "node": ">= 0.6.0"
   },
   "dependencies": {
-    "jade": ">=0.20.0"
+    "jade": ">=0.20.0",
+    "uglify-js": ">=2.4.0"
   },
   "devDependencies": {
     "jade": ">=0.20.0"
